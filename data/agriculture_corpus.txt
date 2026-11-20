@@ -1,0 +1,17 @@
+Crop: rice. Problem: water management. Advice: Maintain a shallow, consistent water layer during appropriate growth stages, and avoid prolonged deep flooding. Check field conditions and local irrigation guidance.
+Crop: rice. Problem: nutrient management. Advice: Base fertilizer timing and quantity on a soil test and local recommendations. Split nitrogen applications when advised for the crop stage.
+Crop: wheat. Problem: weed management. Advice: Scout fields early and identify weed species before choosing control methods. Use locally approved integrated weed management practices.
+Crop: wheat. Problem: irrigation. Advice: Monitor soil moisture and crop growth stage. Schedule irrigation according to local climate, soil type, and extension recommendations.
+Crop: maize. Problem: nutrient deficiency. Advice: Compare leaf symptoms with reliable local diagnostic guidance and consider a soil test before applying fertilizer. Avoid guessing nutrient doses.
+Crop: maize. Problem: fall armyworm. Advice: Scout plants regularly, inspect whorls for larvae and damage, and consult local extension guidance before selecting an approved control method.
+Crop: tomato. Problem: leaf spots. Advice: Remove heavily affected plant debris where appropriate, avoid unnecessary leaf wetness, and seek local diagnosis because several diseases cause similar symptoms.
+Crop: tomato. Problem: irrigation. Advice: Water near the root zone and aim for consistent soil moisture. Avoid waterlogging and adjust frequency for soil type and weather.
+Crop: cotton. Problem: pest monitoring. Advice: Inspect plants regularly and record pest levels and beneficial insects. Use economic thresholds and locally approved integrated pest management guidance.
+Crop: cotton. Problem: soil health. Advice: Use soil testing to guide nutrient inputs, maintain organic matter where practical, and prevent erosion with suitable field practices.
+Crop: chickpea. Problem: disease prevention. Advice: Use locally recommended varieties and certified seed where available, rotate crops, and seek diagnosis before applying crop protection products.
+Crop: groundnut. Problem: irrigation. Advice: Monitor soil moisture during sensitive growth stages and avoid waterlogging. Adapt irrigation to rainfall, soil drainage, and local recommendations.
+Crop: sugarcane. Problem: nutrient management. Advice: Apply nutrients based on soil testing and regional crop recommendations. Keep records of inputs and crop response.
+Crop: onion. Problem: storage. Advice: Harvest at suitable maturity, cure bulbs thoroughly in a ventilated shaded area, and store only sound, dry bulbs in appropriate conditions.
+Crop: potato. Problem: late blight concern. Advice: Scout crops frequently, especially during cool wet weather, and contact local extension services promptly for diagnosis and approved management options.
+General advice: Keep field records of planting dates, weather, irrigation, nutrient applications, and pest observations. Localize every recommendation to the farm's soil, climate, crop variety, and regulations.
+General advice: Do not apply pesticides or fertilizers based only on an automatically generated text snippet. Follow product labels, legal requirements, protective equipment guidance, and qualified local advice.
